@@ -1,0 +1,144 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<meta charset="utf-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title>@ViewData["Title"] - Foodology</title>
+
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+	<link rel="stylesheet" href="~/Restaurent.styles.css" asp-append-version="true" />
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+
+	<script>
+		function LoadFoodItem(FoodItemId = null) {
+
+			var foodItemContainer = $("#FoodItemContainer");
+
+			$.ajax({
+				url: "/Customers/AddNewFoodItem/" + FoodItemId ?? "",
+				type: "GET",
+				success: function (data) {
+					foodItemContainer.append(data);
+				}
+			});
+		}
+
+		$(document).on("click", "#btnPlus", function (e) {
+			e.preventDefault();
+			LoadFoodItem();
+		});
+
+		$(document).on("click", "#btnDeleteFoodItem", function (e) {
+			e.preventDefault();
+			$(this).parent().parent().remove();
+		});
+
+	</script>
+	<script>
+		function LoadEmployee(EmployeeId = null) {
+
+			var employeeContainer = $("#EmployeeContainer");
+
+			$.ajax({
+				url: "/Designations/AddNewEmployees/" + EmployeeId ?? "",
+				type: "GET",
+				success: function (data) {
+					employeeContainer.append(data);
+				}
+			});
+		}
+
+		$(document).on("click", "#btnPlus", function (e) {
+			e.preventDefault();
+			LoadEmployee();
+		});
+
+		$(document).on("click", "#btnDeleteEmployee", function (e) {
+			e.preventDefault();
+			$(this).parent().parent().remove();
+		});
+
+	</script>
+</head>
+<body>
+	<header>
+		<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light  bg-white border-bottom box-shadow mb-3">
+			<img src="~/images/foodology.png" width="50" class="mr-2" />
+			<div class="container-fluid">
+				<a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"></a>
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+						aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="navbar-collapse collapse d-sm-inline-flex justify-content-between position-relative">
+					<ul class="navbar-nav flex-grow-1 ">
+						<li class="nav-item">
+							<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+						</li>
+
+						<li class="nav-item">
+							<a class="nav-link text-dark" asp-area="" asp-controller="Role" asp-action="Index">Role List</a>
+						</li>
+
+						<li class="nav-item">
+							<a class="nav-link text-dark" asp-area="" asp-controller="Role" asp-action="AssignRole">Role Management</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link text-dark" asp-area="" asp-controller="Customers" asp-action="Index">Customer</a>
+						</li>
+						
+						<li class="nav-item">
+							<a class="nav-link text-dark" asp-area="" asp-controller="Designations" asp-action="Index">Designation</a>
+
+						</li>
+						<li class="nav-item">
+							<a class="nav-link text-dark" asp-area="" asp-controller="Employees" asp-action="Index">Employee</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link text-dark" asp-area="" asp-controller="FoodItems" asp-action="Index">Food Order</a>
+						</li>
+
+						@*<li class="nav-item dropdown">
+						<a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">dropdown</a>
+						<ul class="dropdown-menu">
+						<li><a href="" class="dropdown-item">Faurk</a></li>
+						<li><a href="" class="dropdown-item" ></a>rana</li>
+						<li class="dropdown-divider"></li>
+						<li><a href="" class="dro-item">Read</a>rana</li>
+						</ul>
+						</li>*@
+						
+						
+					</ul>
+
+
+					<partial name="_LoginPartial" />
+				</div>
+			</div>
+		</nav>
+	</header>
+	<div class="container">
+		<main role="main" class="pb-3">
+			@RenderBody()
+		</main>
+	</div>
+	<footer class="text-center text-white bg-success fixed-bottom">
+		<h4>©2023 - Foodology</h4>
+	</footer>
+	@* <footer class="border-top footer text-muted  ">
+	<div class="d-flex fixed-bottom bg-success text-white text-center h4 ">
+	&copy; 2023 - Foodology  <a asp-area="" asp-controller="Home" asp-action="Privacy"></a>
+
+	</div>
+	</footer>*@
+
+	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="~/js/site.js" asp-append-version="true"></script>
+	@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

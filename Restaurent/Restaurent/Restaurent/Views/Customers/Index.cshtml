@@ -1,0 +1,80 @@
+﻿@model IEnumerable<Restaurent.Models.Customer>
+
+
+@{
+	ViewData["Title"] = "Index";
+}
+
+<h1 class="text-center bg-success text-white ">Order List</h1>
+<p>
+	<a asp-action="Create" class="btn btn-outline-primary shadow  text-black">Create New</a>
+</p>
+
+@foreach (var item in Model)
+{
+	<div class="card ">
+		<div class="card-header d-flex justify-content-between">
+			
+			<div class="justify-content-lg-end">
+				<h5>Name	: @item.CustomerName</h5>
+				<h5>Phone	: @item.CustomerPhone</h5>
+				<h5>Address : @item.Address</h5>
+			</div>
+			<h4>Order Menu</h4>
+			
+			<div >
+				<h3 class=""><img src="@item.Picture" width="100" class="rounded-end" /></h3>
+				
+			</div>
+			
+		</div>
+		
+		<div class="card-body">
+			<table class="table table-bordered table-striped table-sm text-white">
+				<thead class="bg-success  text-white">
+					<tr>
+						
+						<th>Food Name</th>
+						<th>Entry Date</th>
+						<th>Picture</th>						
+						<th>Quantity</th>
+						<th>Price</th>
+						<th>Total</th>
+					</tr>
+				</thead>
+				<tbody class="m-2 text-black">
+					
+					@foreach (var singleEntry in item.OrderItems)
+					{
+						<tr>
+							
+							<td>@singleEntry.FoodItem.FoodName</td>
+							<td>@singleEntry.FoodItem.EntryDate.Date.ToString("yyyy-MM-dd")</td>
+							<td><img src="@singleEntry.FoodItem.Picture" width="32" class="mr-2" /></td>
+							<td>@singleEntry.FoodItem.Quantity</td>
+							<td>@singleEntry.FoodItem.Price.ToString("0.00")</td>
+							<td>@(singleEntry.FoodItem.Quantity  * singleEntry.FoodItem.Price)</td>
+
+						</tr>
+					}
+				</tbody>
+				<tfoot class="text-black">
+					<tr>						
+						<td colspan="3"></td>						
+						<td class="text-black fw-bold">Total</td>
+						<td>@((item.OrderItems.Sum(x => x.FoodItem.Price)) * (item.OrderItems.Sum(x => x.FoodItem.Quantity)))</td>
+						
+					</tr>
+				</tfoot>
+			</table>
+
+		</div>
+		
+	</div>
+	
+	<div class="m-2 ">
+
+		<a class="btn btn-outline-primary btn-sm shadow" asp-action="Edit" asp-controller="Customers" asp-route-id="@item.CustomerId">Edit</a>
+		<a class="btn btn-outline-danger btn-sm shadow" asp-action="Delete" asp-controller="Customers" asp-route-id="@item.CustomerId">Delete</a>
+	</div>
+}

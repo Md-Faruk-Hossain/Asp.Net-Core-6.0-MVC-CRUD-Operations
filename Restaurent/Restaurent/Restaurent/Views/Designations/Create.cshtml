@@ -1,0 +1,48 @@
+﻿@model Restaurent.Models.Designation
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+
+<h4 class="text-center bg-primary">Designation Add</h4>
+<form asp-action="Create">
+    <div class="row  d-flex justify-content-center">
+        <div class="col-6">
+            
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="DesignationName" class="control-label"></label>
+                    <input asp-for="DesignationName" class="form-control" />
+                    <span asp-validation-for="DesignationName" class="text-danger"></span>
+                </div>
+                <br />
+            <div class="form-group m-3">
+                <input type="submit" value="Save" class="btn btn-outline-success btn-sm shadow" />
+            </div>
+
+                @*<div class="col-6">
+                <h4 class="text-center bg-success  text-white">Employee</h4>
+                <div class="d-flex justify-content-end">
+                <a class="btn btn-outline-success text-black" id="btnPlus">Add</a>
+                </div>
+                <div id="EmployeeContainer">
+                <script>
+                LoadEmployee();
+                </script>
+                </div>
+                </div>
+                <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-outline-success btn-sm shadow" />
+                </div>*@
+            
+        </div>
+    </div>
+</form>
+
+
+<div class="flex-fill  justify-content-end">
+    <a asp-action="Index" class="btn btn-outline-info shadow ">Back To list</a>
+</div>
+

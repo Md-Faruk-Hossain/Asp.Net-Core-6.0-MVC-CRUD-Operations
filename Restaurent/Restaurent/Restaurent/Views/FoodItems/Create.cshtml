@@ -1,0 +1,54 @@
+﻿@model Restaurent.Models.ViewModel.FoodItemVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h4 class="text-center bg-success">Food Item Add </h4>
+
+<form asp-action="Create" enctype="multipart/form-data" method="post">
+    <div class="row d-flex justify-content-center">
+        <div class="col-6 bg-info">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group ">
+                <label asp-for="FoodName" class="control-label"></label>
+                <input asp-for="FoodName" class="form-control" />
+                <span asp-validation-for="FoodName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EntryDate" class="control-label"></label>
+                <input asp-for="EntryDate" class="form-control" type="date"/>
+                <span asp-validation-for="EntryDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Picturefile" class="control-label"></label>
+                <input asp-for="Picturefile" class="form-control" type="file" />
+                <span asp-validation-for="Picturefile" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsAvailable" /> @Html.DisplayNameFor(model => model.IsAvailable)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control"  />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Quantity" class="control-label"></label>
+                <input asp-for="Quantity" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group m-3">
+                <input type="submit" value="Save" class="btn btn-outline-success shadow " />
+            </div>
+        </div>
+    </div>   
+</form>
+
+
+<div class="m-3 justify-content-end">
+    <a asp-action="Index" class="btn btn-outline-info shadow">Back To list</a>
+</div>
+

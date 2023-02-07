@@ -1,0 +1,10 @@
+﻿@model Restaurent.Models.FoodItem
+
+<div class="row form-group mt-2">
+    <div class="col-md-10">
+        @Html.DropDownListFor(x=>x.FoodItemId, ViewBag.FoodItems as SelectList,"--Select--",htmlAttributes:new{@class="form-control"})
+    </div>
+    <div class="col-md-2">
+        <a class="btn btn-outline-danger text-Black" id="btnDeleteFoodItem">Delete</a>
+    </div>
+</div>

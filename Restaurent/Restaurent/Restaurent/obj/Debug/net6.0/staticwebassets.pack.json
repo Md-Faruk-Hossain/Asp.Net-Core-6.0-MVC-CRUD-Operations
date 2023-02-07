@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Restaurent.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Restaurent.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\ImagesFood\\320059804_875869396943779_1472497919714621953_n.jpg",
+      "PackagePath": "staticwebassets\\ImagesFood\\320059804_875869396943779_1472497919714621953_n.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\ImagesFood\\Capture.PNG",
+      "PackagePath": "staticwebassets\\ImagesFood\\Capture.PNG"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\ImagesFood\\Login1.png.jfif",
+      "PackagePath": "staticwebassets\\ImagesFood\\Login1.png.jfif"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\ImagesFood\\Login2.png.jfif",
+      "PackagePath": "staticwebassets\\ImagesFood\\Login2.png.jfif"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\ImagesFood\\Login4.png.jfif",
+      "PackagePath": "staticwebassets\\ImagesFood\\Login4.png.jfif"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\ImagesFood\\Register1.png.jfif",
+      "PackagePath": "staticwebassets\\ImagesFood\\Register1.png.jfif"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\ImagesFood\\Register2.png.jfif",
+      "PackagePath": "staticwebassets\\ImagesFood\\Register2.png.jfif"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\ImagesFood\\Register3.png.jfif",
+      "PackagePath": "staticwebassets\\ImagesFood\\Register3.png.jfif"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\ImagesFood\\download (1).jpg",
+      "PackagePath": "staticwebassets\\ImagesFood\\download (1).jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\ImagesFood\\download (2).jpg",
+      "PackagePath": "staticwebassets\\ImagesFood\\download (2).jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\ImagesFood\\download.jpg",
+      "PackagePath": "staticwebassets\\ImagesFood\\download.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\ImagesFood\\images.jpg",
+      "PackagePath": "staticwebassets\\ImagesFood\\images.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\ImagesFood\\login3.png.png",
+      "PackagePath": "staticwebassets\\ImagesFood\\login3.png.png"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\Images\\319753924_1250854005498628_6179382208923225966_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\319753924_1250854005498628_6179382208923225966_n.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\Images\\319862787_6082527745103020_3572661268943653394_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\319862787_6082527745103020_3572661268943653394_n.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\Images\\320059804_875869396943779_1472497919714621953_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\320059804_875869396943779_1472497919714621953_n.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\Images\\320085920_1779357875767606_9154168084804755655_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\320085920_1779357875767606_9154168084804755655_n.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\Images\\320157289_473340384739608_4191226890881981493_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\320157289_473340384739608_4191226890881981493_n.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\Images\\320225821_491663076289516_5943284905403219930_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\320225821_491663076289516_5943284905403219930_n.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\Images\\Capture.PNG",
+      "PackagePath": "staticwebassets\\Images\\Capture.PNG"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\Images\\Capturexc.PNG",
+      "PackagePath": "staticwebassets\\Images\\Capturexc.PNG"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\Images\\IMG_20221118_171328.jpg",
+      "PackagePath": "staticwebassets\\Images\\IMG_20221118_171328.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\Images\\Login2.png.jfif",
+      "PackagePath": "staticwebassets\\Images\\Login2.png.jfif"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\Images\\download (2).jpg",
+      "PackagePath": "staticwebassets\\Images\\download (2).jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\Images\\download.jpg",
+      "PackagePath": "staticwebassets\\Images\\download.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\Images\\foodology.png",
+      "PackagePath": "staticwebassets\\Images\\foodology.png"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\Images\\images.jpg",
+      "PackagePath": "staticwebassets\\Images\\images.jpg"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\9Asp_Net_web_Api2\\New Project\\Restaurent\\Restaurent\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Restaurent.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Restaurent.props",
+      "PackagePath": "build\\Restaurent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Restaurent.props",
+      "PackagePath": "buildMultiTargeting\\Restaurent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Restaurent.props",
+      "PackagePath": "buildTransitive\\Restaurent.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
